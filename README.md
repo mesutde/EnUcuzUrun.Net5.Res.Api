@@ -4,7 +4,7 @@ Clone Project UcuzUrunum
 https://github.com/dursunkatar/UcuzUrunum
 
 
-1-MarketBizim marketinde ürün aramada hata veriyordu düzeldildi.
+1-MarketBizim marketinde ürün aramada hata veriyordu düzeldildi. </br>
 2-Tüm marketlerde arama sonuçları rest api şeklinde düzenlendi.
 
 
